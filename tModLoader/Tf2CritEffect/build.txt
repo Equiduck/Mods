@@ -1,0 +1,4 @@
+displayName = Tf2 Criticals
+author = GES
+version = 0.8
+side = Client

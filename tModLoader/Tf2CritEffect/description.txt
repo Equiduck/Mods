@@ -1,0 +1,22 @@
+My first mod, centered around everyone's favorite mechanic in TF2!
+
+v0.1: Added crit color, sound, and text
+v0.2: Added workshop icon
+v0.3: Fixed crit sound not playing
+v0.4: 
+     -Crit text now color transitions like Tf2 in-game
+     -Damage number now correctly listed alongside crit
+     -Added non crit sound (may make toggleable in future)
+     -Made crit colors/lifetime more in tune with TF2
+     -Slightly lowered crit volume
+v0.5:
+    -Added all tf2 hit sounds to client config
+    -Added config option for hit/crit sound volume
+v0.6:
+    -Fixed default sound not playing
+    -Fixed bug when attacking many enemies at once
+v0.7:
+    -Made tf2 hit sound configurable (default is set to 'off')
+v0.8:
+    -Made client side (request)
+    -May preload sounds in the future, but I don't think there will be a major performance difference either way

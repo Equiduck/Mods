@@ -1,0 +1,20 @@
+Configs: {
+	TF2Config: {
+		CritSoundVolume: {
+			Tooltip: ""
+			Label: Crit Sound Volume
+		}
+
+		HitSoundVolume: {
+			Tooltip: ""
+			Label: Hit Sound Volume
+		}
+
+		HitSoundTypeString: {
+			Tooltip: ""
+			Label: Hit Sound Type
+		}
+
+		DisplayName: TF2 Hit System Config
+	}
+}
